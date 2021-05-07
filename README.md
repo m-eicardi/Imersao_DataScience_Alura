@@ -1,6 +1,6 @@
 # Imersão Dados 3 - Alura Cursos
-# A imersão foi inspirada em um desafio do "Laboratory innovation science at Havard"
-# disponibilizando os dados em uma competição no kaggle.
+ A imersão foi inspirada em um desafio do "Laboratory innovation science at Havard"
+ disponibilizando os dados em uma competição no kaggle.
 
 # Aulas da Imersão Dados 3:
 # - Aula 1: Análise de dados, python, pandas e novos fármacos
